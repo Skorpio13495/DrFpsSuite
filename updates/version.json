@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
-  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/download/DrFpsSuitev3.2.0/DrFpsSuite.exe",
-  "changelog": "Nuovo Hub Giochi FPS, supporto Battlefield (BO6/2042/BFV) con calibrazione CPU Cores/Threads, configurazione Rainbow Six Siege, grafica High-DPI 4K e pulizia avanzata."
+  "version": "3.3.0",
+  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/download/v3.3.0/DrFpsSuite.exe",
+  "changelog": "Nuova dashboard Monitor Hardware a 120 FPS con temperature CPU/GPU in tempo reale, sezione Presets Giochi ottimizzata e grafica ripulita."
 }

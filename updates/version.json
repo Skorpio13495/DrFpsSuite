@@ -1,7 +1,8 @@
 {
   "version": "3.8.0",
+  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/download/v3.8.0/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/download/v3.8.0/DrFpsSuite.exe",
-  "changelog": "- Correzione BUG",
+  "changelog": "- Correzione BUG e ottimizzazioni",
   "min_os_version": "10.0.19041",
   "release_date": "2026-09-02"
 }

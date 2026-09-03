@@ -1,8 +1,8 @@
 {
-  "version": "3.9.0",
-  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/download/v3.9.0/DrFpsSuite.exe",
-  "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/download/v3.9.0/DrFpsSuite.exe",
-  "changelog": "- Correzione BUG e miglioramenti di stabilità",
+  "version": "3.9.1",
+  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
+  "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
+  "changelog": "• Ottimizzazione grafica schede Hardware\n• Nuovo Hub Driver con badge riassuntivo\n• Chiusura istantanea dell'applicazione e fix stabilità",
   "min_os_version": "10.0.19041",
   "release_date": "2026-09-03"
 }

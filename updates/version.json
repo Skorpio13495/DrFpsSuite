@@ -1,8 +1,8 @@
 {
-  "version": "3.9.1",
+  "version": "3.9.2",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "• Ottimizzazione grafica schede Hardware\n• Nuovo Hub Driver con badge riassuntivo\n• Chiusura istantanea dell'applicazione e fix stabilità",
+  "changelog": "• Monitor Hardware 2.0: Frequenze Clock CPU e GPU in tempo reale\n• Nuova scheda Archiviazione & Salute NVMe/SSD con spazio disco C:\n• ",
   "min_os_version": "10.0.19041",
-  "release_date": "2026-09-03"
+  "release_date": "2026-09-04"
 }

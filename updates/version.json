@@ -1,8 +1,8 @@
 {
-  "version": "3.9.3",
+  "version": "3.9.4",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "• Boost Audio & Boost Latenza Rete per Call of Duty: Warzone / MW4!\n• Codici sconto esclusivi (10% singolo o 15% combo completa)\n• ",
+  "changelog": "• Aggiunto Programma Invita un Amico\n• Risoluzione bug e ottimizzazioni generali",
   "min_os_version": "10.0.19041",
-  "release_date": "2026-09-04"
+  "release_date": "2026-09-06"
 }

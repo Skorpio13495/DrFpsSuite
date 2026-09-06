@@ -1,8 +1,8 @@
 {
-  "version": "3.9.4",
+  "version": "3.9.5",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "• Aggiunto Programma Invita un Amico\n• Risoluzione bug e ottimizzazioni generali",
+  "changelog": "• Aggiunto Programma Invita un Amico\n• Nuova diagnostica intelligente data e stato BIOS • Risoluzione bug e ottimizzazioni generali",
   "min_os_version": "10.0.19041",
   "release_date": "2026-09-06"
 }

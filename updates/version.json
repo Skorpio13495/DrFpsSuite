@@ -2,7 +2,7 @@
   "version": "4.0.0",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "• Nuovo modulo integrato DrFps RamSet Pro (Standby Cache Cleaner nativo & Auto-Purge)\n• Risoluzione Timer a bassissima latenza di input\n•",
+  "changelog": "• Nuovo modulo integrato DrFps RamSet Pro (Standby Cache Cleaner nativo & Auto-Purge)\n• Risoluzione Timer Kernel a 0.500 ms ad altissima precisione e bassissima latenza di input\n• Nuove BigCard cyber mesh con rendering hardware zero-flicker e calibrazione dinamica RAM",
   "min_os_version": "10.0.19041",
   "release_date": "2026-09-08"
 }

@@ -1,8 +1,8 @@
 {
-  "version": "4.0.0",
+  "version": "4.1.0",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "• Nuovo modulo integrato DrFps RamSet Pro (Standby Cache Cleaner nativo & Auto-Purge)\n• Risoluzione Timer Kernel a 0.500 ms ad altissima precisione e bassissima latenza di input\n• Nuove BigCard cyber mesh con rendering hardware zero-flicker e calibrazione dinamica RAM",
+  "changelog": "• Ordinamento alfabetico completo A-Z di tutti i 15 giochi supportati\n• Grafica vettoriale GDI+ e tipografia HD per i badge di pre-configurazione\n• Fix rilevamento binari e manifest ufficiali (Steam, Epic, Battle.net)\n•",
   "min_os_version": "10.0.19041",
-  "release_date": "2026-09-08"
+  "release_date": "2026-09-09"
 }

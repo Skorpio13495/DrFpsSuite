@@ -1,8 +1,8 @@
 {
-  "version": "4.3.1",
+  "version": "4.3.2",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "Risoluzione bug",
+  "changelog": "Preset Wardogs disponibile e risoluzione bug",
   "min_os_version": "10.0.19041",
-  "release_date": "2026-09-09"
+  "release_date": "2026-09-10"
 }

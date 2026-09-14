@@ -1,8 +1,8 @@
 {
-  "version": "4.3.3",
+  "version": "4.3.5",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "Ristrutturazione Bufferbloat; Fix bug generici",
+  "changelog": "Hub Waveform Bufferbloat; Fix grafica",
   "min_os_version": "10.0.19041",
   "release_date": "2026-09-14"
 }

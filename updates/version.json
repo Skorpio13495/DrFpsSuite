@@ -1,8 +1,8 @@
 {
-  "version": "4.3.6",
+  "version": "4.3.9",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "Fix Bug",
+  "changelog": "Integrazione Preset Ufficiale WAR DOGS; Fix Stabilità",
   "min_os_version": "10.0.19041",
-  "release_date": "2026-09-17"
+  "release_date": "2026-09-20"
 }

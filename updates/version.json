@@ -1,8 +1,10 @@
 {
-  "version": "4.4.0",
+  "version": "4.4.1",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "changelog": "Integrazione Preset Ufficiale MICROSOFT FLIGHT SIMULATOR (MSFS 2020 / 2024); Fix Grafici",
+  "latest_nvidia_driver": "617.14",
+  "latest_amd_driver": "25.11.1",
+  "changelog": "FIX BUG",
   "min_os_version": "10.0.19041",
-  "release_date": "2026-09-20"
+  "release_date": "2026-09-23"
 }

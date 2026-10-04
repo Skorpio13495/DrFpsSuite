@@ -1,10 +1,10 @@
 {
-  "version": "4.5.0",
+  "version": "4.5.1",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "617.14",
   "latest_amd_driver": "25.11.1",
-  "changelog": "### Novità in DrFps Suite v4.5.0\n- 🌟 Nuova animazione logo\n- 🎮 Supporto completo esteso a 18 titoli competitivi (inclusi Arc Raiders e Delta Force)\n- 🚀 Ottimizzazioni generiche",
+  "changelog": "### Novità in DrFps Suite v4.5.1\n- 💥 MW4 in Arrivo\n- 🌐 Nuovo link Discord Community (discord.gg/Wq8vsuWKTP)\n- ⚡ Supporto ed ottimizzazioni competitive",
   "min_os_version": "10.0.19041",
-  "release_date": "2026-10-03"
+  "release_date": "2026-10-04"
 }

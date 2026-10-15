@@ -1,10 +1,11 @@
 {
-  "version": "4.5.2",
+  "version": "4.5.3",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "617.42",
-  "latest_amd_driver": "25.11.1",
-  "changelog": "ottimizzazione MW4 disponibile!",
+  "latest_amd_driver": "26.9.2",
+  "changelog": "Aggiornamenti generici",
+  "blacklisted_users": [],
   "min_os_version": "10.0.19041",
-  "release_date": "2026-10-06"
+  "release_date": "2026-10-15"
 }

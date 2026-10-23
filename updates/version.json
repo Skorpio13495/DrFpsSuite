@@ -1,10 +1,10 @@
 {
-  "version": "4.5.8",
+  "version": "4.6",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.01",
   "latest_amd_driver": "26.10.1",
-  "changelog": "## 🎮 Novità & Aggiornamenti v4.5.8\n### 🚀 Preset Call of Duty MW4 Integrato 💎 Restyling AAA Game Cards: Titoli in Alto Ingranditi",
+  "changelog": "## ⚡ Novità & Aggiornamenti v4.6\n### 🔌 Nuova Telemetria Hardware: Consumi Energetici PC (Watt) con Badge Grafico [BETA]\n### 🛠️ Ottimizzazioni di Sistema e Stabilità Prestazionale",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
   "release_date": "2026-10-23"

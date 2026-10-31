@@ -1,11 +1,11 @@
 {
-  "version": "4.6.5",
+  "version": "4.6.6",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.12",
   "latest_amd_driver": "26.10.2",
-  "changelog": "Sconti 5€/10€ e referral pulito",
+  "changelog": "Selezione Modello DLSS (CNN per massimi FPS o Transformer per qualità visiva)",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
-  "release_date": "2026-10-29"
+  "release_date": "2026-10-31"
 }

@@ -2,7 +2,7 @@
   "version": "4.6.7",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "latest_nvidia_driver": "621.12",
+  "latest_nvidia_driver": "621.14",
   "latest_amd_driver": "26.10.2",
   "changelog": "Selezione modello DLSS (CNN per massimi FPS / Transformer per massima qualità) e FSR 3/4 in Prestazioni per Warzone/MW4",
   "blacklisted_users": [],

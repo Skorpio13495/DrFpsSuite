@@ -1,11 +1,11 @@
 {
-  "version": "4.6.8",
+  "version": "4.7.0",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.14",
   "latest_amd_driver": "26.10.2",
-  "changelog": "## Novità DrFpsSuite v4.6.8\n- Massima fluidità \n- Esclusivo Tema Natalizio con palline 3D animate e Babbo Natale volante con renne",
+  "changelog": "## Novità DrFpsSuite v4.7.0\n- Nuovo Modulo DrFps IA & Assistente WhatsApp Ufficiale: assistente virtuale integrato\n- Sezione Invita un Amico Rivoluzionata",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
-  "release_date": "2026-11-04"
+  "release_date": "2026-11-07"
 }

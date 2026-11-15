@@ -1,10 +1,10 @@
 {
-  "version": "4.8.4",
+  "version": "4.8.5",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.24",
   "latest_amd_driver": "26.11.1",
-  "changelog": "## Novità DrFpsSuite v4.8.4\n- Nuovo Secondo Schermo Smartphone: gestione hardware remota con visualizzazione live di CPU, GPU, RAM, FPS e frame time.\n- Selezione Rapida HZ Monitor da Mobile: controllo dinamico del refresh rate del monitor principale direttamente dallo smartphone.\n- Dashboard Card Rinnovata: nuovo titolo \"Usa il tuo smartphone come secondo schermo gestione hardware!\".\n- Prestazioni & Stabilità: azzeramento input lag e fluidità gaming estrema.",
+  "changelog": "## Novità DrFpsSuite v4.8.5\n- Secondo Schermo Smartphone: gestione hardware remota con visualizzazione live di CPU, GPU, RAM, FPS e frame time.\n- Selezione Rapida HZ Monitor da Mobile: controllo dinamico del refresh rate del monitor principale direttamente dallo smartphone.\n- Dashboard Card Rinnovata: nuovo titolo \"Usa il tuo smartphone come secondo schermo gestione hardware!\".\n- Prestazioni & Stabilità: azzeramento input lag e fluidità gaming estrema.",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
   "release_date": "2026-11-15"

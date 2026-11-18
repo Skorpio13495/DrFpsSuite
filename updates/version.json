@@ -1,11 +1,11 @@
 {
-  "version": "4.8.7",
+  "version": "4.8.8",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.24",
   "latest_amd_driver": "26.11.1",
-  "changelog": "## Novità DrFpsSuite v4.8.7\n- Avvio Prova Gratuita 24 Ore v4.8.7",
+  "changelog": "## Novità DrFpsSuite v4.8.8\n-Massima Stabilità ed Efficienza di Sistema.",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
-  "release_date": "2026-11-16"
+  "release_date": "2026-11-18"
 }

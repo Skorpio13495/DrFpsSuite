@@ -1,11 +1,11 @@
 {
-  "version": "4.9.0",
+  "version": "4.9.1",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.24",
-  "latest_amd_driver": "26.11.1",
-  "changelog": "## Novità DrFpsSuite v4.9.0\n- Aggiunta sezione Boost Audio pro Rifinitura Estetica Premium: riquadri e bordi rinnovati ad altissima definizione per un look pulito ed esclusivo.",
+  "latest_amd_driver": "26.11.2",
+  "changelog": "## Novità DrFpsSuite v4.9.1\n-Settaggi Audio e Risoluzione Bug",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
-  "release_date": "2026-11-19"
+  "release_date": "2026-11-21"
 }

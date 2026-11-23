@@ -1,11 +1,11 @@
 {
-  "version": "4.9.2",
+  "version": "4.9.3",
   "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.35",
   "latest_amd_driver": "26.11.1",
-  "changelog": "## Novità DrFpsSuite v4.9.2\n- Driver NVIDIA 621.35: fix critico freeze/latenza SSD NVMe e micro-stuttering.\n- Nuova Pulizia Cyber RAM Purge: toggle fluorescente anti-stutter e spaziature UI rifinite.\n- Profilo Rete - Lag Finder: traceroute multi-hop per server gaming con jitter live e zero packet loss.\n- Boost Audio da Competizione: laboratorio acustico con enfasi passi nemici e profili Cuffie/IEM.",
+  "changelog": "## Novità DrFpsSuite v4.9.3\n- Fix Bug & Stabilità: correzioni e ottimizzazioni interne per massime prestazioni.\n- Scelta Profilo Boost Audio: integrata la selezione diretta dei profili in-game (MW4/V1) su config.txt sezione 22 direttamente dal riquadro di preamplificazione.\n-",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
-  "release_date": "2026-11-22"
+  "release_date": "2026-11-23"
 }

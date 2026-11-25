@@ -1,11 +1,11 @@
 {
-  "version": "4.9.3",
-  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
+  "version": "5.0",
+  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite-Premium.exe",
+  "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite-Premium.exe",
   "latest_nvidia_driver": "621.40",
   "latest_amd_driver": "26.11.2",
-  "changelog": "## Novità DrFpsSuite v4.9.3\n- Fix Bug & Stabilità: correzioni e ottimizzazioni interne per massime prestazioni.\n- Scelta Profilo Boost Audio: integrata la selezione diretta dei profili in-game (MW4/V1) su config.txt sezione 22 direttamente dal riquadro di preamplificazione.\n-",
+  "changelog": "## Novità DrFps Suite 5.0\n- Nuova UI ad alte prestazioni con telemetria live CPU/GPU/RAM/Rete.",
   "blacklisted_users": [],
   "min_os_version": "10.0.19041",
-  "release_date": "2026-11-23"
+  "release_date": "2026-11-25"
 }

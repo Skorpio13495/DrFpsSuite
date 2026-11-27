@@ -1,6 +1,6 @@
 {
   "version": "5.2.2",
-  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite-Premium.exe",
+  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
   "latest_nvidia_driver": "621.40",
   "latest_amd_driver": "26.11.2",
   "changelog": "DrFps Suite 5.2.2:\n- Aggiunta possibilità di avvio automatico con Windows (App in avvio)\n- Fix generali e miglioramenti di stabilità"

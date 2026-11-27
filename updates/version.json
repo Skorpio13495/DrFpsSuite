@@ -1,11 +1,7 @@
 {
-  "version": "5.2",
-  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
-  "download_url": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite.exe",
+  "version": "5.2.1",
+  "downloadUrl": "https://github.com/Skorpio13495/DrFpsSuite/releases/latest/download/DrFpsSuite-Premium.exe",
   "latest_nvidia_driver": "621.40",
   "latest_amd_driver": "26.11.2",
-  "changelog": "Prestazioni aumentate e fix stabilità",
-  "blacklisted_users": [],
-  "min_os_version": "10.0.19041",
-  "release_date": "2026-11-26"
+  "changelog": "DrFps Suite 5.2.1:\n- Aggiunta possibilità di avvio automatico con Windows (App in avvio)\n- Fix generali e miglioramenti di stabilità"
 }
